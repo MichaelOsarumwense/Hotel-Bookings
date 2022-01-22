@@ -1,0 +1,23 @@
+{
+	"name": "hotel-bookings",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"browserTest": "npx cypress open",
+		"headless": "npx cypress run"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MichaelOsarumwense/Hotel-Bookings.git"
+	},
+	"author": "Michael Osarumwense",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/MichaelOsarumwense/Hotel-Bookings/issues"
+	},
+	"homepage": "https://github.com/MichaelOsarumwense/Hotel-Bookings#readme",
+	"devDependencies": {
+		"cypress": "^9.3.1"
+	}
+}

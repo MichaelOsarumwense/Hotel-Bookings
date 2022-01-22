@@ -1,0 +1,14 @@
+{
+	"form": {
+		"firstName": "#firstname",
+		"lastName": "#lastname",
+		"price": "#totalprice",
+		"deposit": "#depositpaid",
+		"checkIn": "#checkin",
+		"checkOut": "#checkout",
+		"save": "input[value=' Save ']",
+		"delete": "input[value='Delete']"
+	},
+	"submitedDetails": "#bookings",
+	"dom": "body"
+}

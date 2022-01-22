@@ -1,0 +1,4 @@
+{
+	"baseUrl": "http://hotel-test.equalexperts.io",
+	"defaultCommandTimeout": 10000
+}

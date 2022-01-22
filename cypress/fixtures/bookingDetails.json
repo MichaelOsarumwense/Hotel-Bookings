@@ -1,0 +1,19 @@
+{
+	"validForm": {
+		"firstName": "Michael",
+		"lastName": "Osarumwense",
+		"price": 1000,
+		"deposit": "true",
+		"checkIn": "2021-06-07",
+		"checkOut": "2021-06-20"
+	},
+
+	"invalidForm": {
+		"firstName": "wrongUser",
+		"lastName": "WrongUser1",
+		"price": "price",
+		"deposit": "true",
+		"checkIn": "2021-06-07",
+		"checkOut": "2021-06-20"
+	}
+}
